@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing game projects.
 - 📫 How to reach me: You can search my name "Kenneth Pabillo" in socials such as Facebook and Instagram.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a game in Y8 created using Unity, which is titled "Bloxing Federation." You can check it out!
+- ⚡ Fun fact: I have a game in Y8 created using Unity titled "Bloxing Federation." You can check it out!
 
 <!---
 ken85illo/ken85illo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
