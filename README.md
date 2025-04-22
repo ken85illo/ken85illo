@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ken85illo
 - 👀 I’m interested in programming/coding games and softwares.
-- 🌱 I’m currently learning Java and OpenGL.
+- 🌱 I’m currently learning Java and OpenGL (lwjgl).
 - 💞️ I’m looking to collaborate on developing game projects.
 - 📫 How to reach me: You can search my name "Kenneth Pabillo" in socials such as Facebook and Instagram.
 - 😄 Pronouns: Ryan/Gosling
