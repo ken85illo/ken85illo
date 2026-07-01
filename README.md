@@ -8,10 +8,6 @@
 
   Link: https://www.y8.com/games/bloxing_federation
 
-  Certified hood classic image
-  ![241688861_550943506132998_1935008031616148127_n](https://github.com/user-attachments/assets/d9d151e1-931b-4786-86cc-3c580c32c16d)
- 
-
 
 <!---
 ken85illo/ken85illo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
